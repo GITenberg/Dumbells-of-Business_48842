@@ -1,16 +1,22 @@
 _repo: Dumbells-of-Business_48842
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Reed, Louis C. M.
       gutenberg_agent_id: '44995'
       url: http://www.gutenberg.org/2009/agents/44995
+covers:
+- cover_type: archival
+  image_path: 48842-h/images/cover.jpg
 creator:
   author:
     agent_name: Proff. O. U. Bojack (Bus. Doc.)
     gutenberg_agent_id: '44994'
     url: http://www.gutenberg.org/2009/agents/44994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48842#Dumbells-of-Business
 gutenberg_issued: '2015-05-01'
 gutenberg_type: Text
 identifiers:
